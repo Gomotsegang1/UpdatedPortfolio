@@ -26,3 +26,7 @@ dist-ssr
 # Local scratch files accidentally copied into project root
 /Ecommerce.png
 /SP500 Daily.png
+
+# Unused local artifacts in profile assets
+/public/profiles/Ecommerce.png.zip
+/public/profiles/SP500 Daily.png
