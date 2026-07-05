@@ -24,5 +24,5 @@ dist-ssr
 *.sw?
 
 # Local scratch files accidentally copied into project root
-Ecommerce.png
-SP500 Daily.png
+/Ecommerce.png
+/SP500 Daily.png

@@ -58,8 +58,6 @@ const Projects: React.FC = () => {
     return `${import.meta.env.BASE_URL}${cleanPath}`;
   };
 
-  const fallbackImageSrc = `${import.meta.env.BASE_URL}profiles/agrifund.png`;
-
   return (
     <section
       id="projects"
@@ -113,9 +111,6 @@ const Projects: React.FC = () => {
                     <img
                       src={resolveImageSrc(project.image)}
                       alt={project.title}
-                      onError={(event) => {
-                        event.currentTarget.src = fallbackImageSrc;
-                      }}
                       className={`w-full h-full transition-transform duration-300 ${
                         project.image.includes("profiles/")
                           ? "object-cover object-top scale-100 group-hover:scale-105"
