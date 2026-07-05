@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Frontend",
+    "icon": "Palette",
+    "color": "from-[#3BC1A8] to-[#249E94]",
+    "skills": [
+      { "name": "React/Next.js", "level": 70 },
+      { "name": "TypeScript", "level": 75 },
+      { "name": "Tailwind CSS", "level": 80 },
+      { "name": "Angular", "level": 85 }
+    ]
+  },
+  {
+    "title": "Backend",
+    "icon": "Code2",
+    "color": "from-[#87BAC3] to-[#249E94]",
+    "skills": [
+      { "name": "Java/SpringBoot", "level": 70 },
+      { "name": "Python", "level": 75 },
+      { "name": "Swift", "level": 80 },
+      { "name": "Docker", "level": 85 }
+    ]
+  },
+  {
+    "title": "Database",
+    "icon": "Database",
+    "color": "from-[#87BAC3] to-[#3BC1A8]",
+    "skills": [
+      { "name": "PostgreSQL", "level": 70 },
+      { "name": "MongoDB", "level": 75 },
+      { "name": "SQL/Oracle", "level": 80 },
+      { "name": "MySQL", "level": 85 },
+      { "name": "Firebase", "level": 80 }
+    ]
+  },
+  {
+    "title": "Data Science",
+    "icon": "Cloud",
+    "color": "from-[#3BC1A8] to-[#87BAC3]",
+    "skills": [
+      { "name": "Machine Learning", "level": 70 },
+      { "name": "R (Programming Language)", "level": 75 },
+      { "name": "Google Colab", "level": 80 },
+      { "name": "Jupyter Notebook", "level": 85 }
+    ]
+  }
+]

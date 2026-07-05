@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "AgriFund",
+    "description": "Agriculture-focused platform concept built to support farmers and agribusiness stakeholders with structured funding workflows and accessible project tracking.",
+    "image": "profiles/agrifund.png",
+    "tags": ["iOS", "Swift", "UIKit", "Xcode", "Mobile UI/UX"],
+    "link": "#",
+    "github": "https://github.com/The-DigitalAcademy/iosAgrifund"
+  },
+  {
+    "id": 2,
+    "title": "Clothing Avenue",
+    "description": "Fashion e-commerce iOS application focused on clean product browsing, mobile shopping flow, and a user-friendly storefront experience.",
+    "image": "profiles/Ecommerce.png",
+    "tags": ["iOS", "Swift", "UIKit", "Xcode", "Mobile UI/UX"],
+    "link": "#",
+    "github": "https://github.com/Gomotsegang1/iosAlphaEcommerce"
+  },
+  {
+    "id": 3,
+    "title": "Stock Predictor",
+    "description": "Data-driven forecasting project that explores stock price movement using historical market data, feature engineering, and machine learning models.",
+    "image": "profiles/appl.jpeg",
+    "tags": ["Python", "Pandas", "Scikit-learn", "Jupyter", "Data Analysis"],
+    "link": "#",
+    "github": "https://github.com/Gomotsegang1"
+  }
+]

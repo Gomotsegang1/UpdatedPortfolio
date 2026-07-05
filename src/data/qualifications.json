@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "type": "certification",
+    "title": "AWS Cloud Practitioner",
+    "issuer": "Amazon Web Services",
+    "date": "2026",
+    "icon": "award",
+    "description": "AWS Cloud Practitioner (In Progress)",
+    "credentialId": "In Progress"
+  },
+  {
+    "id": 2,
+    "type": "certification",
+    "title": "iOS & Swift - The Complete iOS App Development Boot Camp",
+    "issuer": "Udemy",
+    "date": "Completed",
+    "icon": "award",
+    "description": "Udemy course certification",
+    "credentialId": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-d6b59987-6cc6-4d14-b758-4a9946f336b1.pdf"
+  },
+  {
+    "id": 3,
+    "type": "certification",
+    "title": "SheCodes Plus",
+    "issuer": "SheCodes",
+    "date": "Completed",
+    "icon": "award",
+    "description": "SheCodes Plus certification",
+    "credentialId": "Available on request"
+  },
+  {
+    "id": 4,
+    "type": "education",
+    "title": "MSc in Computer Science",
+    "issuer": "University of the Witwatersrand (Wits), Johannesburg",
+    "date": "2026 - Present",
+    "icon": "graduation-cap",
+    "description": "Master of Science in Computer Science (In Progress)"
+  },
+  {
+    "id": 5,
+    "type": "education",
+    "title": "BSc Honours in Computer Science",
+    "issuer": "University of the Witwatersrand (Wits)",
+    "date": "2025",
+    "icon": "graduation-cap",
+    "description": "Bachelor of Science Honours in Computer Science"
+  },
+  {
+    "id": 6,
+    "type": "education",
+    "title": "BSc in Mathematical Science",
+    "issuer": "Sefako Makgatho Health Sciences University, Pretoria",
+    "date": "2019 - 2021",
+    "icon": "graduation-cap",
+    "description": "Bachelor of Science in Mathematical Science"
+  },
+  {
+    "id": 10,
+    "type": "achievement",
+    "title": "GirlCode Mentor",
+    "issuer": "GirlCode",
+    "date": "Feb 2024 - April 2024",
+    "icon": "star",
+    "description": "Mentored participants during the GirlCode mentorship period and supported practical coding guidance"
+  }
+]

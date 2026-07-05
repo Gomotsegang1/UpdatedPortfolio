@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "company": "ABSA Group South Africa, Randburg",
+    "position": "iOS Developer",
+    "period": "April 2023 - April 2024",
+    "description": "Built and supported iOS features for internal and customer-facing banking solutions.",
+    "achievements": [
+      "Implemented iOS app features and user interface improvements for banking workflows",
+      "Worked with backend teams to integrate APIs and improve app reliability",
+      "Contributed to testing and release cycles to maintain high app quality"
+    ],
+    "technologies": ["Swift", "UIKit", "REST APIs", "Git", "Xcode"]
+  },
+  {
+    "id": 2,
+    "company": "Rand Merchant Bank South Africa, Sandton",
+    "position": "Software Developer (Graduate)",
+    "period": "July 2024 - June 2025",
+    "description": "Contributed to enterprise software delivery across software development, business analysis support, and QA testing.",
+    "achievements": [
+      "Built and enhanced backend services used by internal banking teams",
+      "Supported business analysis activities by refining requirements and translating business needs into technical tasks",
+      "Performed QA testing, defect validation, and regression checks to improve release quality",
+      "Improved operational efficiency through automation and system integration",
+      "Collaborated in agile delivery to ship production-ready solutions"
+    ],
+    "technologies": ["Java", "Spring Boot", "SQL", "REST APIs", "Git"]
+  },
+  {
+    "id": 3,
+    "company": "Rand Merchant Bank South Africa, Sandton",
+    "position": "Software Developer",
+    "period": "July 2025 - Present",
+    "description": "Developing scalable software products and data-driven solutions in Global Markets.",
+    "achievements": [
+      "Designed and delivered backend features for business-critical applications",
+      "Built services with reliability and performance in mind",
+      "Supported production systems and continuous improvements"
+    ],
+    "technologies": ["Java", "Python", "SQL", "Cloud Services", "Docker"]
+  }
+]

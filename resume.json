@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Gomotsegang Matloa",
+    "email": "nadinematloa@gmail.com",
+    "phone": "077 450 7307",
+    "url": "https://gomotsegang1.github.io/portfolio",
+    "certificatesUrl": "Available on request",
+    "location": "Greenlee Blvd, Linbro Park",
+    "summary": "I am a software developer and aspiring quant focused on backend engineering, data science, and AI-driven solutions. I combine industry experience with research and build scalable systems for financial and real-world decision-making."
+  },
+  "sections": {
+    "work": {
+      "name": "Work Experience",
+      "items": [
+        {
+          "company": "ABSA Group South Africa, Randburg",
+          "position": "iOS Developer",
+          "date": "Apr 2023 - Apr 2024",
+          "summary": "Built and supported iOS features for internal and customer-facing banking solutions, collaborated with backend teams on API integration, and contributed to testing and release cycles."
+        },
+        {
+          "company": "Rand Merchant Bank South Africa, Sandton",
+          "position": "Software Developer (Graduate)",
+          "date": "Jul 2024 - Jun 2025",
+          "summary": "Contributed to enterprise software delivery across development, BA support, and QA testing. Built backend services, refined requirements into technical tasks, and improved release quality through regression and defect validation."
+        },
+        {
+          "company": "Rand Merchant Bank South Africa, Sandton",
+          "position": "Software Developer",
+          "date": "Jul 2025 - Present",
+          "summary": "Developing scalable software products and data-driven solutions in Global Markets, with focus on robust backend services and production reliability."
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "items": [
+        {
+          "institution": "University of the Witwatersrand (Wits), Johannesburg",
+          "area": "MSc in Computer Science",
+          "date": "2026 - Present"
+        },
+        {
+          "institution": "University of the Witwatersrand (Wits)",
+          "area": "BSc Honours in Computer Science",
+          "date": "2025"
+        },
+        {
+          "institution": "Sefako Makgatho Health Sciences University, Pretoria",
+          "area": "BSc in Mathematical Science",
+          "date": "2019 - 2021"
+        }
+      ]
+    },
+    "skills": {
+      "name": "Technical Skills",
+      "items": [
+        {
+          "name": "Frontend",
+          "description": "React, Next.js, TypeScript, Tailwind CSS, Angular"
+        },
+        {
+          "name": "Backend",
+          "description": "Java/SpringBoot, Python, Swift, Docker"
+        },
+        {
+          "name": "Databases",
+          "description": "PostgreSQL, MongoDB, SQL/Oracle, MySQL, Firebase"
+        },
+        {
+          "name": "Data Science",
+          "description": "Machine Learning, R, Google Colab, Jupyter Notebook"
+        },
+        { "name": "Tools", "description": "Git, GitHub, Postman, Agile/Scrum" }
+      ]
+    },
+    "certifications": {
+      "name": "Certifications",
+      "items": [
+        {
+          "name": "AWS Cloud Practitioner",
+          "issuer": "Amazon Web Services",
+          "date": "2026 (In Progress)"
+        },
+        {
+          "name": "iOS & Swift - The Complete iOS App Development Boot Camp",
+          "issuer": "Udemy",
+          "date": "Completed"
+        },
+        { "name": "SheCodes Plus", "issuer": "SheCodes", "date": "Completed" }
+      ]
+    },
+    "achievements": {
+      "name": "Achievements",
+      "items": [
+        {
+          "name": "GirlCode Mentor",
+          "description": "Mentored participants and supported practical coding guidance",
+          "date": "Feb 2024 - Apr 2024"
+        }
+      ]
+    },
+    "references": {
+      "name": "References",
+      "items": [
+        {
+          "name": "Klaas Senamela",
+          "role": "Software Development Engineer",
+          "company": "AWS",
+          "linkedIn": "https://www.linkedin.com/in/klaas-senamela-a69a76139/"
+        },
+        {
+          "name": "Koena Mabokela",
+          "role": "Senior Lecturer & Head: Technopreneurship Centre",
+          "company": "University of Johannesburg",
+          "linkedIn": "https://www.linkedin.com/in/koena-mabokela-b4a18570/"
+        },
+        {
+          "name": "Karabo Maloka",
+          "role": "Software Developer",
+          "company": "Paycorp Group",
+          "linkedIn": "https://www.linkedin.com/in/karabo-maloka/"
+        },
+        {
+          "name": "Kerin Moodley",
+          "role": "Data Analyst and Modeler",
+          "company": "Investec",
+          "linkedIn": "https://www.linkedin.com/in/kerin-moodley/"
+        },
+        {
+          "name": "Given Mahlaule",
+          "role": "Digitalization Steering Specialist",
+          "company": "BMW South Africa",
+          "linkedIn": "https://www.linkedin.com/in/given-mahlaule-138708192/"
+        }
+      ]
+    }
+  }
+}
