@@ -49,6 +49,17 @@ const Projects: React.FC = () => {
     },
   };
 
+  const resolveImageSrc = (imagePath: string): string => {
+    if (imagePath.startsWith("http://") || imagePath.startsWith("https://")) {
+      return imagePath;
+    }
+
+    const cleanPath = imagePath.replace(/^\/+/, "");
+    return `${import.meta.env.BASE_URL}${cleanPath}`;
+  };
+
+  const fallbackImageSrc = `${import.meta.env.BASE_URL}profiles/agrifund.png`;
+
   return (
     <section
       id="projects"
@@ -100,8 +111,11 @@ const Projects: React.FC = () => {
                   {/* Image Container */}
                   <div className="relative h-56 overflow-hidden bg-slate-100 dark:bg-slate-800">
                     <img
-                      src={project.image}
+                      src={resolveImageSrc(project.image)}
                       alt={project.title}
+                      onError={(event) => {
+                        event.currentTarget.src = fallbackImageSrc;
+                      }}
                       className={`w-full h-full transition-transform duration-300 ${
                         project.image.includes("profiles/")
                           ? "object-cover object-top scale-100 group-hover:scale-105"
