@@ -4,12 +4,10 @@
     "icon": "Code2",
     "color": "from-[#3BC1A8] to-[#249E94]",
     "skills": [
-      { "name": "React/Next.js", "level": 70 },
-      { "name": "TypeScript", "level": 75 },
       { "name": "Java/Spring Boot", "level": 80 },
-      { "name": "Swift/iOS", "level": 78 },
-      { "name": "Tailwind CSS", "level": 80 },
-      { "name": "Docker", "level": 72 }
+      { "name": "Docker", "level": 72 },
+      { "name": "Git", "level": 80 },
+      { "name": "Jenkins", "level": 75 }
     ]
   },
   {
@@ -18,8 +16,9 @@
     "color": "from-[#87BAC3] to-[#249E94]",
     "skills": [
       { "name": "Python", "level": 85 },
-      { "name": "Machine Learning", "level": 78 },
+      { "name": "SAS", "level": 78 },
       { "name": "Pandas", "level": 80 },
+      { "name": "Scikit-learn", "level": 80 },
       { "name": "Jupyter Notebook", "level": 85 },
       { "name": "R", "level": 70 }
     ]
@@ -29,12 +28,12 @@
     "icon": "Database",
     "color": "from-[#87BAC3] to-[#3BC1A8]",
     "skills": [
-      { "name": "PostgreSQL", "level": 70 },
-      { "name": "MySQL", "level": 85 },
-      { "name": "SQL/Oracle", "level": 80 },
-      { "name": "MongoDB", "level": 75 },
-      { "name": "Firebase", "level": 80 },
-      { "name": "ETL Pipelines", "level": 72 }
+      { "name": "SQL / MySQL / PostgreSQL / DB2", "level": 80 },
+      { "name": "ETL Pipelines", "level": 75 },
+      { "name": "Data Warehousing", "level": 75 },
+      { "name": "Apache Spark", "level": 75 },
+      { "name": "Apache Airflow", "level": 75 },
+      { "name": "Power BI", "level": 80 }
     ]
   }
 ]
